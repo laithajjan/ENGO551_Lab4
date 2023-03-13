@@ -1,1 +1,2 @@
 # ENGO551_Lab4
+For this lab, we are adding a layer to our previous lab, the incident layer. Changes were made to the index.html file to call the mapbox API and display the new layer. When running the script.py you should be able to see a map of Calgary with a toggle button to see the incidents.
